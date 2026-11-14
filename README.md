@@ -4,7 +4,8 @@
 
 Product-minded software builder exploring **AI, mobile, computer vision & sports**.
 
-🌐 https://pachangaapp.com
+💻 [Website](https://gabrielalcantara.com)
+⚽️ [Pachanga Community](https://pachangaapp.com)
 
 ---
 
